@@ -1,9 +1,4 @@
----
-tags: kids, python, random library, dice
-languages: python
-level: 1
-type: lab
----
+
 ##IMPORTING LIBRARIES MINI LAB
 
 ###Auto Dice Roller for Monopoly:
