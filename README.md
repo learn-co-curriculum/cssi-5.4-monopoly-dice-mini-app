@@ -19,3 +19,5 @@ And if you don't roll doubles:
 Move 8 spaces. Next player's turn!
 ```
 Remember to import your random library at the start of your script!
+
+<a href='https://learn.co/lessons/cssi-5.2-monopoly-dice-mini-app' data-visibility='hidden'>View this lesson on Learn.co</a>
